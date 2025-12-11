@@ -1,0 +1,2057 @@
+{
+   "draws": [
+      {
+         "productName": "Europatipset",
+         "userProduct": "Europatipset",
+         "seasonLastDraw": false,
+         "productId": 2,
+         "currentNetSale": "6004073,00",
+         "regCloseDescription": "Europatipset v 44, stänger 2023-11-05 14:59",
+         "extraInfo": null,
+         "drawNumber": 2316,
+         "betIndex": 0,
+         "drawState": "Open",
+         "drawStateId": 2,
+         "regBetDisabled": "NotDisabled",
+         "regOpenTime": "2023-11-01T22:30:00+01:00",
+         "regCloseTime": "2023-11-05T14:59:00+01:00",
+         "cancelCloseTime": "2023-11-05T15:00:00+01:00",
+         "sport": {
+            "id": 1,
+            "type": 1,
+            "name": "Fotboll",
+            "numCountries": 0
+         },
+         "drawComment": "Europatipset v. 2023-44",
+         "bombenDrawNum": 1575,
+         "relatedDraws": [
+            {
+               "productId": 24,
+               "drawNumber": 1575,
+               "regCloseTime": "2023-11-05T14:59:00+01:00"
+            }
+         ],
+         "rowPrice": "1,00",
+         "fund": null,
+         "drawEvents": [
+            {
+               "cancelled": false,
+               "eventComment": "",
+               "eventDescription": "",
+               "extraInfo": null,
+               "eventNumber": 1,
+               "eventTypeId": 1,
+               "participantType": "Team",
+               "match": {
+                  "matchId": 24815,
+                  "matchStart": "2023-11-05T17:30:00+01:00",
+                  "status": "Inte startat",
+                  "statusId": 0,
+                  "sportEventStatus": "NotStarted",
+                  "statusTime": "2023-10-30T12:19:15+01:00",
+                  "coverage": 0,
+                  "participants": [
+                     {
+                        "id": 36,
+                        "type": "home",
+                        "name": "Luton",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "LUT",
+                        "mediumName": "Luton",
+                        "countryId": 2,
+                        "countryName": "England",
+                        "isoCode": "ENG",
+                        "managerId": 0,
+                        "arenaId": 0
+                     },
+                     {
+                        "id": 41,
+                        "type": "away",
+                        "name": "Liverpool",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "LFC",
+                        "mediumName": "Liverpool",
+                        "countryId": 2,
+                        "countryName": "England",
+                        "isoCode": "ENG",
+                        "managerId": 0,
+                        "arenaId": 0
+                     }
+                  ],
+                  "league": {
+                     "id": 1,
+                     "uniqueLeagueId": 0,
+                     "name": "Premier League",
+                     "shortName": null,
+                     "country": {
+                        "id": 2,
+                        "name": "England",
+                        "isoCode": "ENG",
+                        "population": 0
+                     },
+                     "code": null,
+                     "printAbbreviation": null,
+                     "season": null,
+                     "doShow": false,
+                     "isHome": false,
+                     "legacyKey": 0,
+                     "numTeams": 0,
+                     "popular": false,
+                     "rank": 0
+                  },
+                  "leagueTable": null,
+                  "result": [],
+                  "media": null,
+                  "mutuals": null
+               },
+               "odds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "favouriteOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "startOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "betMetrics": {
+                  "eventTypeId": 1,
+                  "eventType": "1X2",
+                  "eventSubTypeId": 2,
+                  "eventSubType": "Fulltid",
+                  "distributionDate": "2023-11-05T13:48:47.1+01:00",
+                  "distributionRefDate": "2023-11-05T13:33:11.737+01:00",
+                  "values": [
+                     {
+                        "outcome": "1",
+                        "odds": {
+                           "odds": "12,40",
+                           "favouriteOdds": "7,81",
+                           "startOdds": "8,95"
+                        },
+                        "distribution": {
+                           "distribution": "3",
+                           "refDistribution": "2"
+                        }
+                     },
+                     {
+                        "outcome": "X",
+                        "odds": {
+                           "odds": "8,00",
+                           "favouriteOdds": "12,11",
+                           "startOdds": "5,95"
+                        },
+                        "distribution": {
+                           "distribution": "7",
+                           "refDistribution": "7"
+                        }
+                     },
+                     {
+                        "outcome": "2",
+                        "odds": {
+                           "odds": "1,21",
+                           "favouriteOdds": "80,07",
+                           "startOdds": "1,28"
+                        },
+                        "distribution": {
+                           "distribution": "90",
+                           "refDistribution": "91"
+                        }
+                     }
+                  ]
+               },
+               "complementaryBetMetrics": [],
+               "outcomes": null,
+               "svenskaFolket": {
+                  "one": "3",
+                  "x": "7",
+                  "two": "90",
+                  "date": "2023-11-05T13:48:47.1+01:00",
+                  "refOne": "2",
+                  "refX": "7",
+                  "refTwo": "91",
+                  "refDate": "2023-11-05T13:33:11.737+01:00"
+               },
+               "tioTidningarsTips": null,
+               "providerIds": [
+                  {
+                     "provider": "BetRadar",
+                     "type": "Normal",
+                     "id": "41763049"
+                  }
+               ]
+            },
+            {
+               "cancelled": false,
+               "eventComment": "",
+               "eventDescription": "-",
+               "extraInfo": null,
+               "eventNumber": 2,
+               "eventTypeId": 1,
+               "participantType": "Team",
+               "match": {
+                  "matchId": 24814,
+                  "matchStart": "2023-11-05T15:00:00+01:00",
+                  "status": "Inte startat",
+                  "statusId": 0,
+                  "sportEventStatus": "NotStarted",
+                  "statusTime": "2023-10-30T12:19:14+01:00",
+                  "coverage": 0,
+                  "participants": [
+                     {
+                        "id": 69,
+                        "type": "home",
+                        "name": "Nottingham Forest",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "NOF",
+                        "mediumName": "Nottingha",
+                        "countryId": 2,
+                        "countryName": "England",
+                        "isoCode": "ENG",
+                        "managerId": 0,
+                        "arenaId": 0
+                     },
+                     {
+                        "id": 84,
+                        "type": "away",
+                        "name": "Aston Villa",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "AST",
+                        "mediumName": "Aston V",
+                        "countryId": 2,
+                        "countryName": "England",
+                        "isoCode": "ENG",
+                        "managerId": 0,
+                        "arenaId": 0
+                     }
+                  ],
+                  "league": {
+                     "id": 1,
+                     "uniqueLeagueId": 0,
+                     "name": "Premier League",
+                     "shortName": null,
+                     "country": {
+                        "id": 2,
+                        "name": "England",
+                        "isoCode": "ENG",
+                        "population": 0
+                     },
+                     "code": null,
+                     "printAbbreviation": null,
+                     "season": null,
+                     "doShow": false,
+                     "isHome": false,
+                     "legacyKey": 0,
+                     "numTeams": 0,
+                     "popular": false,
+                     "rank": 0
+                  },
+                  "leagueTable": null,
+                  "result": [],
+                  "media": null,
+                  "mutuals": null
+               },
+               "odds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "favouriteOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "startOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "betMetrics": {
+                  "eventTypeId": 1,
+                  "eventType": "1X2",
+                  "eventSubTypeId": 2,
+                  "eventSubType": "Fulltid",
+                  "distributionDate": "2023-11-05T13:48:47.1+01:00",
+                  "distributionRefDate": "2023-11-05T13:33:11.737+01:00",
+                  "values": [
+                     {
+                        "outcome": "1",
+                        "odds": {
+                           "odds": "3,90",
+                           "favouriteOdds": "24,76",
+                           "startOdds": "3,76"
+                        },
+                        "distribution": {
+                           "distribution": "15",
+                           "refDistribution": "15"
+                        }
+                     },
+                     {
+                        "outcome": "X",
+                        "odds": {
+                           "odds": "3,68",
+                           "favouriteOdds": "26,24",
+                           "startOdds": "3,54"
+                        },
+                        "distribution": {
+                           "distribution": "26",
+                           "refDistribution": "26"
+                        }
+                     },
+                     {
+                        "outcome": "2",
+                        "odds": {
+                           "odds": "1,97",
+                           "favouriteOdds": "49,01",
+                           "startOdds": "1,96"
+                        },
+                        "distribution": {
+                           "distribution": "59",
+                           "refDistribution": "59"
+                        }
+                     }
+                  ]
+               },
+               "complementaryBetMetrics": [],
+               "outcomes": null,
+               "svenskaFolket": {
+                  "one": "15",
+                  "x": "26",
+                  "two": "59",
+                  "date": "2023-11-05T13:48:47.1+01:00",
+                  "refOne": "15",
+                  "refX": "26",
+                  "refTwo": "59",
+                  "refDate": "2023-11-05T13:33:11.737+01:00"
+               },
+               "tioTidningarsTips": null,
+               "providerIds": [
+                  {
+                     "provider": "BetRadar",
+                     "type": "Normal",
+                     "id": "41763055"
+                  }
+               ]
+            },
+            {
+               "cancelled": false,
+               "eventComment": "",
+               "eventDescription": "-",
+               "extraInfo": null,
+               "eventNumber": 3,
+               "eventTypeId": 1,
+               "participantType": "Team",
+               "match": {
+                  "matchId": 24816,
+                  "matchStart": "2023-11-05T21:00:00+01:00",
+                  "status": "Inte startat",
+                  "statusId": 0,
+                  "sportEventStatus": "NotStarted",
+                  "statusTime": "2023-10-30T12:19:31+01:00",
+                  "coverage": 0,
+                  "participants": [
+                     {
+                        "id": 72,
+                        "type": "home",
+                        "name": "Real Madrid",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "RMA",
+                        "mediumName": "R. Madrid",
+                        "countryId": 10,
+                        "countryName": "Spanien",
+                        "isoCode": "ESP",
+                        "managerId": 0,
+                        "arenaId": 0
+                     },
+                     {
+                        "id": 211,
+                        "type": "away",
+                        "name": "Rayo Vallecano",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "VAL",
+                        "mediumName": "Vallecano",
+                        "countryId": 10,
+                        "countryName": "Spanien",
+                        "isoCode": "ESP",
+                        "managerId": 0,
+                        "arenaId": 0
+                     }
+                  ],
+                  "league": {
+                     "id": 19,
+                     "uniqueLeagueId": 0,
+                     "name": "La Liga",
+                     "shortName": null,
+                     "country": {
+                        "id": 10,
+                        "name": "Spanien",
+                        "isoCode": "ESP",
+                        "population": 0
+                     },
+                     "code": null,
+                     "printAbbreviation": null,
+                     "season": null,
+                     "doShow": false,
+                     "isHome": false,
+                     "legacyKey": 0,
+                     "numTeams": 0,
+                     "popular": false,
+                     "rank": 0
+                  },
+                  "leagueTable": null,
+                  "result": [],
+                  "media": null,
+                  "mutuals": null
+               },
+               "odds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "favouriteOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "startOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "betMetrics": {
+                  "eventTypeId": 1,
+                  "eventType": "1X2",
+                  "eventSubTypeId": 2,
+                  "eventSubType": "Fulltid",
+                  "distributionDate": "2023-11-05T13:48:47.1+01:00",
+                  "distributionRefDate": "2023-11-05T13:33:11.737+01:00",
+                  "values": [
+                     {
+                        "outcome": "1",
+                        "odds": {
+                           "odds": "1,22",
+                           "favouriteOdds": "77,82",
+                           "startOdds": "1,25"
+                        },
+                        "distribution": {
+                           "distribution": "82",
+                           "refDistribution": "82"
+                        }
+                     },
+                     {
+                        "outcome": "X",
+                        "odds": {
+                           "odds": "6,75",
+                           "favouriteOdds": "14,07",
+                           "startOdds": "5,95"
+                        },
+                        "distribution": {
+                           "distribution": "14",
+                           "refDistribution": "14"
+                        }
+                     },
+                     {
+                        "outcome": "2",
+                        "odds": {
+                           "odds": "11,70",
+                           "favouriteOdds": "8,11",
+                           "startOdds": "9,40"
+                        },
+                        "distribution": {
+                           "distribution": "4",
+                           "refDistribution": "4"
+                        }
+                     }
+                  ]
+               },
+               "complementaryBetMetrics": [],
+               "outcomes": null,
+               "svenskaFolket": {
+                  "one": "82",
+                  "x": "14",
+                  "two": "4",
+                  "date": "2023-11-05T13:48:47.1+01:00",
+                  "refOne": "82",
+                  "refX": "14",
+                  "refTwo": "4",
+                  "refDate": "2023-11-05T13:33:11.737+01:00"
+               },
+               "tioTidningarsTips": null,
+               "providerIds": [
+                  {
+                     "provider": "BetRadar",
+                     "type": "Normal",
+                     "id": "41893137"
+                  }
+               ]
+            },
+            {
+               "cancelled": false,
+               "eventComment": "",
+               "eventDescription": "-",
+               "extraInfo": null,
+               "eventNumber": 4,
+               "eventTypeId": 1,
+               "participantType": "Team",
+               "match": {
+                  "matchId": 24818,
+                  "matchStart": "2023-11-05T18:30:00+01:00",
+                  "status": "Inte startat",
+                  "statusId": 0,
+                  "sportEventStatus": "NotStarted",
+                  "statusTime": "2023-10-30T12:19:33+01:00",
+                  "coverage": 0,
+                  "participants": [
+                     {
+                        "id": 65,
+                        "type": "home",
+                        "name": "Villarreal",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "VIL",
+                        "mediumName": "Villarrea",
+                        "countryId": 10,
+                        "countryName": "Spanien",
+                        "isoCode": "ESP",
+                        "managerId": 0,
+                        "arenaId": 0
+                     },
+                     {
+                        "id": 241,
+                        "type": "away",
+                        "name": "Athletic Bilbao",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "BIL",
+                        "mediumName": "At Bilbao",
+                        "countryId": 10,
+                        "countryName": "Spanien",
+                        "isoCode": "ESP",
+                        "managerId": 0,
+                        "arenaId": 0
+                     }
+                  ],
+                  "league": {
+                     "id": 19,
+                     "uniqueLeagueId": 0,
+                     "name": "La Liga",
+                     "shortName": null,
+                     "country": {
+                        "id": 10,
+                        "name": "Spanien",
+                        "isoCode": "ESP",
+                        "population": 0
+                     },
+                     "code": null,
+                     "printAbbreviation": null,
+                     "season": null,
+                     "doShow": false,
+                     "isHome": false,
+                     "legacyKey": 0,
+                     "numTeams": 0,
+                     "popular": false,
+                     "rank": 0
+                  },
+                  "leagueTable": null,
+                  "result": [],
+                  "media": null,
+                  "mutuals": null
+               },
+               "odds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "favouriteOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "startOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "betMetrics": {
+                  "eventTypeId": 1,
+                  "eventType": "1X2",
+                  "eventSubTypeId": 2,
+                  "eventSubType": "Fulltid",
+                  "distributionDate": "2023-11-05T13:48:47.1+01:00",
+                  "distributionRefDate": "2023-11-05T13:33:11.737+01:00",
+                  "values": [
+                     {
+                        "outcome": "1",
+                        "odds": {
+                           "odds": "3,16",
+                           "favouriteOdds": "30,20",
+                           "startOdds": "2,49"
+                        },
+                        "distribution": {
+                           "distribution": "28",
+                           "refDistribution": "29"
+                        }
+                     },
+                     {
+                        "outcome": "X",
+                        "odds": {
+                           "odds": "3,64",
+                           "favouriteOdds": "26,22",
+                           "startOdds": "3,41"
+                        },
+                        "distribution": {
+                           "distribution": "31",
+                           "refDistribution": "31"
+                        }
+                     },
+                     {
+                        "outcome": "2",
+                        "odds": {
+                           "odds": "2,19",
+                           "favouriteOdds": "43,58",
+                           "startOdds": "2,67"
+                        },
+                        "distribution": {
+                           "distribution": "41",
+                           "refDistribution": "40"
+                        }
+                     }
+                  ]
+               },
+               "complementaryBetMetrics": [],
+               "outcomes": null,
+               "svenskaFolket": {
+                  "one": "28",
+                  "x": "31",
+                  "two": "41",
+                  "date": "2023-11-05T13:48:47.1+01:00",
+                  "refOne": "29",
+                  "refX": "31",
+                  "refTwo": "40",
+                  "refDate": "2023-11-05T13:33:11.737+01:00"
+               },
+               "tioTidningarsTips": null,
+               "providerIds": [
+                  {
+                     "provider": "BetRadar",
+                     "type": "Normal",
+                     "id": "41893125"
+                  }
+               ]
+            },
+            {
+               "cancelled": false,
+               "eventComment": "",
+               "eventDescription": "-",
+               "extraInfo": null,
+               "eventNumber": 5,
+               "eventTypeId": 1,
+               "participantType": "Team",
+               "match": {
+                  "matchId": 24823,
+                  "matchStart": "2023-11-05T20:45:00+01:00",
+                  "status": "Inte startat",
+                  "statusId": 0,
+                  "sportEventStatus": "NotStarted",
+                  "statusTime": "2023-10-30T12:19:53+01:00",
+                  "coverage": 0,
+                  "participants": [
+                     {
+                        "id": 353,
+                        "type": "home",
+                        "name": "Fiorentina",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "FIO",
+                        "mediumName": "Fiorentin",
+                        "countryId": 25,
+                        "countryName": "Italien",
+                        "isoCode": "ITA",
+                        "managerId": 0,
+                        "arenaId": 0
+                     },
+                     {
+                        "id": 173,
+                        "type": "away",
+                        "name": "Juventus",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "JUV",
+                        "mediumName": "Juventus",
+                        "countryId": 25,
+                        "countryName": "Italien",
+                        "isoCode": "ITA",
+                        "managerId": 0,
+                        "arenaId": 0
+                     }
+                  ],
+                  "league": {
+                     "id": 20,
+                     "uniqueLeagueId": 0,
+                     "name": "Serie A",
+                     "shortName": null,
+                     "country": {
+                        "id": 25,
+                        "name": "Italien",
+                        "isoCode": "ITA",
+                        "population": 0
+                     },
+                     "code": null,
+                     "printAbbreviation": null,
+                     "season": null,
+                     "doShow": false,
+                     "isHome": false,
+                     "legacyKey": 0,
+                     "numTeams": 0,
+                     "popular": false,
+                     "rank": 0
+                  },
+                  "leagueTable": null,
+                  "result": [],
+                  "media": null,
+                  "mutuals": null
+               },
+               "odds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "favouriteOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "startOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "betMetrics": {
+                  "eventTypeId": 1,
+                  "eventType": "1X2",
+                  "eventSubTypeId": 2,
+                  "eventSubType": "Fulltid",
+                  "distributionDate": "2023-11-05T13:48:47.1+01:00",
+                  "distributionRefDate": "2023-11-05T13:33:11.737+01:00",
+                  "values": [
+                     {
+                        "outcome": "1",
+                        "odds": {
+                           "odds": "2,76",
+                           "favouriteOdds": "34,59",
+                           "startOdds": "2,67"
+                        },
+                        "distribution": {
+                           "distribution": "27",
+                           "refDistribution": "27"
+                        }
+                     },
+                     {
+                        "outcome": "X",
+                        "odds": {
+                           "odds": "3,11",
+                           "favouriteOdds": "30,70",
+                           "startOdds": "3,11"
+                        },
+                        "distribution": {
+                           "distribution": "32",
+                           "refDistribution": "32"
+                        }
+                     },
+                     {
+                        "outcome": "2",
+                        "odds": {
+                           "odds": "2,75",
+                           "favouriteOdds": "34,71",
+                           "startOdds": "2,67"
+                        },
+                        "distribution": {
+                           "distribution": "41",
+                           "refDistribution": "41"
+                        }
+                     }
+                  ]
+               },
+               "complementaryBetMetrics": [],
+               "outcomes": null,
+               "svenskaFolket": {
+                  "one": "27",
+                  "x": "32",
+                  "two": "41",
+                  "date": "2023-11-05T13:48:47.1+01:00",
+                  "refOne": "27",
+                  "refX": "32",
+                  "refTwo": "41",
+                  "refDate": "2023-11-05T13:33:11.737+01:00"
+               },
+               "tioTidningarsTips": null,
+               "providerIds": [
+                  {
+                     "provider": "BetRadar",
+                     "type": "Normal",
+                     "id": "42134321"
+                  }
+               ]
+            },
+            {
+               "cancelled": false,
+               "eventComment": "",
+               "eventDescription": "-",
+               "extraInfo": null,
+               "eventNumber": 6,
+               "eventTypeId": 1,
+               "participantType": "Team",
+               "match": {
+                  "matchId": 24822,
+                  "matchStart": "2023-11-05T18:00:00+01:00",
+                  "status": "Inte startat",
+                  "statusId": 0,
+                  "sportEventStatus": "NotStarted",
+                  "statusTime": "2023-10-30T12:19:52+01:00",
+                  "coverage": 0,
+                  "participants": [
+                     {
+                        "id": 57,
+                        "type": "home",
+                        "name": "Roma",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "ROM",
+                        "mediumName": "Roma",
+                        "countryId": 25,
+                        "countryName": "Italien",
+                        "isoCode": "ITA",
+                        "managerId": 0,
+                        "arenaId": 0
+                     },
+                     {
+                        "id": 1061,
+                        "type": "away",
+                        "name": "Lecce",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "LEC",
+                        "mediumName": "Lecce",
+                        "countryId": 25,
+                        "countryName": "Italien",
+                        "isoCode": "ITA",
+                        "managerId": 0,
+                        "arenaId": 0
+                     }
+                  ],
+                  "league": {
+                     "id": 20,
+                     "uniqueLeagueId": 0,
+                     "name": "Serie A",
+                     "shortName": null,
+                     "country": {
+                        "id": 25,
+                        "name": "Italien",
+                        "isoCode": "ITA",
+                        "population": 0
+                     },
+                     "code": null,
+                     "printAbbreviation": null,
+                     "season": null,
+                     "doShow": false,
+                     "isHome": false,
+                     "legacyKey": 0,
+                     "numTeams": 0,
+                     "popular": false,
+                     "rank": 0
+                  },
+                  "leagueTable": null,
+                  "result": [],
+                  "media": null,
+                  "mutuals": null
+               },
+               "odds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "favouriteOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "startOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "betMetrics": {
+                  "eventTypeId": 1,
+                  "eventType": "1X2",
+                  "eventSubTypeId": 2,
+                  "eventSubType": "Fulltid",
+                  "distributionDate": "2023-11-05T13:48:47.1+01:00",
+                  "distributionRefDate": "2023-11-05T13:33:11.737+01:00",
+                  "values": [
+                     {
+                        "outcome": "1",
+                        "odds": {
+                           "odds": "1,55",
+                           "favouriteOdds": "61,46",
+                           "startOdds": "1,49"
+                        },
+                        "distribution": {
+                           "distribution": "72",
+                           "refDistribution": "73"
+                        }
+                     },
+                     {
+                        "outcome": "X",
+                        "odds": {
+                           "odds": "3,90",
+                           "favouriteOdds": "24,43",
+                           "startOdds": "4,10"
+                        },
+                        "distribution": {
+                           "distribution": "21",
+                           "refDistribution": "20"
+                        }
+                     },
+                     {
+                        "outcome": "2",
+                        "odds": {
+                           "odds": "6,75",
+                           "favouriteOdds": "14,11",
+                           "startOdds": "6,40"
+                        },
+                        "distribution": {
+                           "distribution": "7",
+                           "refDistribution": "7"
+                        }
+                     }
+                  ]
+               },
+               "complementaryBetMetrics": [],
+               "outcomes": null,
+               "svenskaFolket": {
+                  "one": "72",
+                  "x": "21",
+                  "two": "7",
+                  "date": "2023-11-05T13:48:47.1+01:00",
+                  "refOne": "73",
+                  "refX": "20",
+                  "refTwo": "7",
+                  "refDate": "2023-11-05T13:33:11.737+01:00"
+               },
+               "tioTidningarsTips": null,
+               "providerIds": [
+                  {
+                     "provider": "BetRadar",
+                     "type": "Normal",
+                     "id": "42134309"
+                  }
+               ]
+            },
+            {
+               "cancelled": false,
+               "eventComment": "",
+               "eventDescription": "-",
+               "extraInfo": null,
+               "eventNumber": 7,
+               "eventTypeId": 1,
+               "participantType": "Team",
+               "match": {
+                  "matchId": 24840,
+                  "matchStart": "2023-11-05T15:00:00+01:00",
+                  "status": "Inte startat",
+                  "statusId": 0,
+                  "sportEventStatus": "NotStarted",
+                  "statusTime": "2023-10-30T12:23:16+01:00",
+                  "coverage": 0,
+                  "participants": [
+                     {
+                        "id": 236,
+                        "type": "home",
+                        "name": "BK Häcken",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "HAC",
+                        "mediumName": "Häcken",
+                        "countryId": 30,
+                        "countryName": "Sverige",
+                        "isoCode": "SWE",
+                        "managerId": 0,
+                        "arenaId": 0
+                     },
+                     {
+                        "id": 209,
+                        "type": "away",
+                        "name": "Malmö FF",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "MAL",
+                        "mediumName": "Malmö FF",
+                        "countryId": 30,
+                        "countryName": "Sverige",
+                        "isoCode": "SWE",
+                        "managerId": 0,
+                        "arenaId": 0
+                     }
+                  ],
+                  "league": {
+                     "id": 25,
+                     "uniqueLeagueId": 0,
+                     "name": "Allsvenskan",
+                     "shortName": null,
+                     "country": {
+                        "id": 30,
+                        "name": "Sverige",
+                        "isoCode": "SWE",
+                        "population": 0
+                     },
+                     "code": null,
+                     "printAbbreviation": null,
+                     "season": null,
+                     "doShow": false,
+                     "isHome": false,
+                     "legacyKey": 0,
+                     "numTeams": 0,
+                     "popular": false,
+                     "rank": 0
+                  },
+                  "leagueTable": null,
+                  "result": [],
+                  "media": null,
+                  "mutuals": null
+               },
+               "odds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "favouriteOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "startOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "betMetrics": {
+                  "eventTypeId": 1,
+                  "eventType": "1X2",
+                  "eventSubTypeId": 2,
+                  "eventSubType": "Fulltid",
+                  "distributionDate": "2023-11-05T13:48:47.1+01:00",
+                  "distributionRefDate": "2023-11-05T13:33:11.737+01:00",
+                  "values": [
+                     {
+                        "outcome": "1",
+                        "odds": {
+                           "odds": "3,50",
+                           "favouriteOdds": "27,55",
+                           "startOdds": "2,93"
+                        },
+                        "distribution": {
+                           "distribution": "24",
+                           "refDistribution": "23"
+                        }
+                     },
+                     {
+                        "outcome": "X",
+                        "odds": {
+                           "odds": "4,10",
+                           "favouriteOdds": "23,51",
+                           "startOdds": "3,64"
+                        },
+                        "distribution": {
+                           "distribution": "23",
+                           "refDistribution": "24"
+                        }
+                     },
+                     {
+                        "outcome": "2",
+                        "odds": {
+                           "odds": "1,97",
+                           "favouriteOdds": "48,94",
+                           "startOdds": "2,26"
+                        },
+                        "distribution": {
+                           "distribution": "53",
+                           "refDistribution": "53"
+                        }
+                     }
+                  ]
+               },
+               "complementaryBetMetrics": [],
+               "outcomes": null,
+               "svenskaFolket": {
+                  "one": "24",
+                  "x": "23",
+                  "two": "53",
+                  "date": "2023-11-05T13:48:47.1+01:00",
+                  "refOne": "23",
+                  "refX": "24",
+                  "refTwo": "53",
+                  "refDate": "2023-11-05T13:33:11.737+01:00"
+               },
+               "tioTidningarsTips": null,
+               "providerIds": [
+                  {
+                     "provider": "BetRadar",
+                     "type": "Normal",
+                     "id": "37844435"
+                  }
+               ]
+            },
+            {
+               "cancelled": false,
+               "eventComment": "",
+               "eventDescription": "-",
+               "extraInfo": null,
+               "eventNumber": 8,
+               "eventTypeId": 1,
+               "participantType": "Team",
+               "match": {
+                  "matchId": 24843,
+                  "matchStart": "2023-11-05T17:30:00+01:00",
+                  "status": "Inte startat",
+                  "statusId": 0,
+                  "sportEventStatus": "NotStarted",
+                  "statusTime": "2023-10-30T12:23:18+01:00",
+                  "coverage": 0,
+                  "participants": [
+                     {
+                        "id": 270,
+                        "type": "home",
+                        "name": "Mjällby",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "MJÄ",
+                        "mediumName": "Mjällby",
+                        "countryId": 30,
+                        "countryName": "Sverige",
+                        "isoCode": "SWE",
+                        "managerId": 0,
+                        "arenaId": 0
+                     },
+                     {
+                        "id": 454,
+                        "type": "away",
+                        "name": "Brommapojkarna",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "BRO",
+                        "mediumName": "Brommapoj",
+                        "countryId": 30,
+                        "countryName": "Sverige",
+                        "isoCode": "SWE",
+                        "managerId": 0,
+                        "arenaId": 0
+                     }
+                  ],
+                  "league": {
+                     "id": 25,
+                     "uniqueLeagueId": 0,
+                     "name": "Allsvenskan",
+                     "shortName": null,
+                     "country": {
+                        "id": 30,
+                        "name": "Sverige",
+                        "isoCode": "SWE",
+                        "population": 0
+                     },
+                     "code": null,
+                     "printAbbreviation": null,
+                     "season": null,
+                     "doShow": false,
+                     "isHome": false,
+                     "legacyKey": 0,
+                     "numTeams": 0,
+                     "popular": false,
+                     "rank": 0
+                  },
+                  "leagueTable": null,
+                  "result": [],
+                  "media": null,
+                  "mutuals": null
+               },
+               "odds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "favouriteOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "startOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "betMetrics": {
+                  "eventTypeId": 1,
+                  "eventType": "1X2",
+                  "eventSubTypeId": 2,
+                  "eventSubType": "Fulltid",
+                  "distributionDate": "2023-11-05T13:48:47.1+01:00",
+                  "distributionRefDate": "2023-11-05T13:33:11.737+01:00",
+                  "values": [
+                     {
+                        "outcome": "1",
+                        "odds": {
+                           "odds": "2,62",
+                           "favouriteOdds": "36,66",
+                           "startOdds": "2,44"
+                        },
+                        "distribution": {
+                           "distribution": "42",
+                           "refDistribution": "42"
+                        }
+                     },
+                     {
+                        "outcome": "X",
+                        "odds": {
+                           "odds": "3,68",
+                           "favouriteOdds": "26,10",
+                           "startOdds": "3,47"
+                        },
+                        "distribution": {
+                           "distribution": "25",
+                           "refDistribution": "25"
+                        }
+                     },
+                     {
+                        "outcome": "2",
+                        "odds": {
+                           "odds": "2,58",
+                           "favouriteOdds": "37,23",
+                           "startOdds": "2,78"
+                        },
+                        "distribution": {
+                           "distribution": "33",
+                           "refDistribution": "33"
+                        }
+                     }
+                  ]
+               },
+               "complementaryBetMetrics": [],
+               "outcomes": null,
+               "svenskaFolket": {
+                  "one": "42",
+                  "x": "25",
+                  "two": "33",
+                  "date": "2023-11-05T13:48:47.1+01:00",
+                  "refOne": "42",
+                  "refX": "25",
+                  "refTwo": "33",
+                  "refDate": "2023-11-05T13:33:11.737+01:00"
+               },
+               "tioTidningarsTips": null,
+               "providerIds": [
+                  {
+                     "provider": "BetRadar",
+                     "type": "Normal",
+                     "id": "37844439"
+                  }
+               ]
+            },
+            {
+               "cancelled": false,
+               "eventComment": "",
+               "eventDescription": "-",
+               "extraInfo": null,
+               "eventNumber": 9,
+               "eventTypeId": 1,
+               "participantType": "Team",
+               "match": {
+                  "matchId": 24842,
+                  "matchStart": "2023-11-05T17:30:00+01:00",
+                  "status": "Inte startat",
+                  "statusId": 0,
+                  "sportEventStatus": "NotStarted",
+                  "statusTime": "2023-10-30T12:23:18+01:00",
+                  "coverage": 0,
+                  "participants": [
+                     {
+                        "id": 210,
+                        "type": "home",
+                        "name": "Elfsborg",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "IFE",
+                        "mediumName": "Elfsborg",
+                        "countryId": 30,
+                        "countryName": "Sverige",
+                        "isoCode": "SWE",
+                        "managerId": 0,
+                        "arenaId": 0
+                     },
+                     {
+                        "id": 235,
+                        "type": "away",
+                        "name": "Degerfors",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "DEG",
+                        "mediumName": "Degerfors",
+                        "countryId": 30,
+                        "countryName": "Sverige",
+                        "isoCode": "SWE",
+                        "managerId": 0,
+                        "arenaId": 0
+                     }
+                  ],
+                  "league": {
+                     "id": 25,
+                     "uniqueLeagueId": 0,
+                     "name": "Allsvenskan",
+                     "shortName": null,
+                     "country": {
+                        "id": 30,
+                        "name": "Sverige",
+                        "isoCode": "SWE",
+                        "population": 0
+                     },
+                     "code": null,
+                     "printAbbreviation": null,
+                     "season": null,
+                     "doShow": false,
+                     "isHome": false,
+                     "legacyKey": 0,
+                     "numTeams": 0,
+                     "popular": false,
+                     "rank": 0
+                  },
+                  "leagueTable": null,
+                  "result": [],
+                  "media": null,
+                  "mutuals": null
+               },
+               "odds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "favouriteOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "startOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "betMetrics": {
+                  "eventTypeId": 1,
+                  "eventType": "1X2",
+                  "eventSubTypeId": 2,
+                  "eventSubType": "Fulltid",
+                  "distributionDate": "2023-11-05T13:48:47.1+01:00",
+                  "distributionRefDate": "2023-11-05T13:33:11.737+01:00",
+                  "values": [
+                     {
+                        "outcome": "1",
+                        "odds": {
+                           "odds": "1,26",
+                           "favouriteOdds": "76,60",
+                           "startOdds": "1,24"
+                        },
+                        "distribution": {
+                           "distribution": "85",
+                           "refDistribution": "85"
+                        }
+                     },
+                     {
+                        "outcome": "X",
+                        "odds": {
+                           "odds": "6,40",
+                           "favouriteOdds": "15,08",
+                           "startOdds": "6,30"
+                        },
+                        "distribution": {
+                           "distribution": "10",
+                           "refDistribution": "10"
+                        }
+                     },
+                     {
+                        "outcome": "2",
+                        "odds": {
+                           "odds": "11,60",
+                           "favouriteOdds": "8,32",
+                           "startOdds": "10,50"
+                        },
+                        "distribution": {
+                           "distribution": "5",
+                           "refDistribution": "5"
+                        }
+                     }
+                  ]
+               },
+               "complementaryBetMetrics": [],
+               "outcomes": null,
+               "svenskaFolket": {
+                  "one": "85",
+                  "x": "10",
+                  "two": "5",
+                  "date": "2023-11-05T13:48:47.1+01:00",
+                  "refOne": "85",
+                  "refX": "10",
+                  "refTwo": "5",
+                  "refDate": "2023-11-05T13:33:11.737+01:00"
+               },
+               "tioTidningarsTips": null,
+               "providerIds": [
+                  {
+                     "provider": "BetRadar",
+                     "type": "Normal",
+                     "id": "37844433"
+                  }
+               ]
+            },
+            {
+               "cancelled": false,
+               "eventComment": "",
+               "eventDescription": "-",
+               "extraInfo": null,
+               "eventNumber": 10,
+               "eventTypeId": 1,
+               "participantType": "Team",
+               "match": {
+                  "matchId": 24844,
+                  "matchStart": "2023-11-05T17:00:00+01:00",
+                  "status": "Inte startat",
+                  "statusId": 0,
+                  "sportEventStatus": "NotStarted",
+                  "statusTime": "2023-10-30T12:23:25+01:00",
+                  "coverage": 0,
+                  "participants": [
+                     {
+                        "id": 264,
+                        "type": "home",
+                        "name": "Hammarby",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "HAM",
+                        "mediumName": "Hammarby",
+                        "countryId": 30,
+                        "countryName": "Sverige",
+                        "isoCode": "SWE",
+                        "managerId": 0,
+                        "arenaId": 0
+                     },
+                     {
+                        "id": 304,
+                        "type": "away",
+                        "name": "BK Häcken",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "HÄC",
+                        "mediumName": "Häcken",
+                        "countryId": 30,
+                        "countryName": "Sverige",
+                        "isoCode": "SWE",
+                        "managerId": 0,
+                        "arenaId": 0
+                     }
+                  ],
+                  "league": {
+                     "id": 30,
+                     "uniqueLeagueId": 0,
+                     "name": "DamAllsvenskan",
+                     "shortName": null,
+                     "country": {
+                        "id": 30,
+                        "name": "Sverige",
+                        "isoCode": "SWE",
+                        "population": 0
+                     },
+                     "code": null,
+                     "printAbbreviation": null,
+                     "season": null,
+                     "doShow": false,
+                     "isHome": false,
+                     "legacyKey": 0,
+                     "numTeams": 0,
+                     "popular": false,
+                     "rank": 0
+                  },
+                  "leagueTable": null,
+                  "result": [],
+                  "media": null,
+                  "mutuals": null
+               },
+               "odds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "favouriteOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "startOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "betMetrics": {
+                  "eventTypeId": 1,
+                  "eventType": "1X2",
+                  "eventSubTypeId": 2,
+                  "eventSubType": "Fulltid",
+                  "distributionDate": "2023-11-05T13:48:47.1+01:00",
+                  "distributionRefDate": "2023-11-05T13:33:11.737+01:00",
+                  "values": [
+                     {
+                        "outcome": "1",
+                        "odds": {
+                           "odds": "2,13",
+                           "favouriteOdds": "43,29",
+                           "startOdds": "1,95"
+                        },
+                        "distribution": {
+                           "distribution": "47",
+                           "refDistribution": "48"
+                        }
+                     },
+                     {
+                        "outcome": "X",
+                        "odds": {
+                           "odds": "3,75",
+                           "favouriteOdds": "24,59",
+                           "startOdds": "3,73"
+                        },
+                        "distribution": {
+                           "distribution": "26",
+                           "refDistribution": "25"
+                        }
+                     },
+                     {
+                        "outcome": "2",
+                        "odds": {
+                           "odds": "2,87",
+                           "favouriteOdds": "32,13",
+                           "startOdds": "3,02"
+                        },
+                        "distribution": {
+                           "distribution": "27",
+                           "refDistribution": "27"
+                        }
+                     }
+                  ]
+               },
+               "complementaryBetMetrics": [],
+               "outcomes": null,
+               "svenskaFolket": {
+                  "one": "47",
+                  "x": "26",
+                  "two": "27",
+                  "date": "2023-11-05T13:48:47.1+01:00",
+                  "refOne": "48",
+                  "refX": "25",
+                  "refTwo": "27",
+                  "refDate": "2023-11-05T13:33:11.737+01:00"
+               },
+               "tioTidningarsTips": null,
+               "providerIds": [
+                  {
+                     "provider": "BetRadar",
+                     "type": "Normal",
+                     "id": "38436279"
+                  }
+               ]
+            },
+            {
+               "cancelled": false,
+               "eventComment": "",
+               "eventDescription": "-",
+               "extraInfo": null,
+               "eventNumber": 11,
+               "eventTypeId": 1,
+               "participantType": "Team",
+               "match": {
+                  "matchId": 24829,
+                  "matchStart": "2023-11-05T15:00:00+01:00",
+                  "status": "Inte startat",
+                  "statusId": 0,
+                  "sportEventStatus": "NotStarted",
+                  "statusTime": "2023-10-30T12:20:13+01:00",
+                  "coverage": 0,
+                  "participants": [
+                     {
+                        "id": 253,
+                        "type": "home",
+                        "name": "Nantes",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "NAN",
+                        "mediumName": "Nantes",
+                        "countryId": 22,
+                        "countryName": "Frankrike",
+                        "isoCode": "FRA",
+                        "managerId": 0,
+                        "arenaId": 0
+                     },
+                     {
+                        "id": 248,
+                        "type": "away",
+                        "name": "Reims",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "SDR",
+                        "mediumName": "Reims",
+                        "countryId": 22,
+                        "countryName": "Frankrike",
+                        "isoCode": "FRA",
+                        "managerId": 0,
+                        "arenaId": 0
+                     }
+                  ],
+                  "league": {
+                     "id": 18,
+                     "uniqueLeagueId": 0,
+                     "name": "Ligue 1",
+                     "shortName": null,
+                     "country": {
+                        "id": 22,
+                        "name": "Frankrike",
+                        "isoCode": "FRA",
+                        "population": 0
+                     },
+                     "code": null,
+                     "printAbbreviation": null,
+                     "season": null,
+                     "doShow": false,
+                     "isHome": false,
+                     "legacyKey": 0,
+                     "numTeams": 0,
+                     "popular": false,
+                     "rank": 0
+                  },
+                  "leagueTable": null,
+                  "result": [],
+                  "media": null,
+                  "mutuals": null
+               },
+               "odds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "favouriteOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "startOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "betMetrics": {
+                  "eventTypeId": 1,
+                  "eventType": "1X2",
+                  "eventSubTypeId": 2,
+                  "eventSubType": "Fulltid",
+                  "distributionDate": "2023-11-05T13:48:47.1+01:00",
+                  "distributionRefDate": "2023-11-05T13:33:11.737+01:00",
+                  "values": [
+                     {
+                        "outcome": "1",
+                        "odds": {
+                           "odds": "2,87",
+                           "favouriteOdds": "33,29",
+                           "startOdds": "3,09"
+                        },
+                        "distribution": {
+                           "distribution": "31",
+                           "refDistribution": "31"
+                        }
+                     },
+                     {
+                        "outcome": "X",
+                        "odds": {
+                           "odds": "3,30",
+                           "favouriteOdds": "28,95",
+                           "startOdds": "3,24"
+                        },
+                        "distribution": {
+                           "distribution": "34",
+                           "refDistribution": "34"
+                        }
+                     },
+                     {
+                        "outcome": "2",
+                        "odds": {
+                           "odds": "2,53",
+                           "favouriteOdds": "37,76",
+                           "startOdds": "2,29"
+                        },
+                        "distribution": {
+                           "distribution": "35",
+                           "refDistribution": "35"
+                        }
+                     }
+                  ]
+               },
+               "complementaryBetMetrics": [],
+               "outcomes": null,
+               "svenskaFolket": {
+                  "one": "31",
+                  "x": "34",
+                  "two": "35",
+                  "date": "2023-11-05T13:48:47.1+01:00",
+                  "refOne": "31",
+                  "refX": "34",
+                  "refTwo": "35",
+                  "refDate": "2023-11-05T13:33:11.737+01:00"
+               },
+               "tioTidningarsTips": null,
+               "providerIds": [
+                  {
+                     "provider": "BetRadar",
+                     "type": "Normal",
+                     "id": "42004717"
+                  }
+               ]
+            },
+            {
+               "cancelled": false,
+               "eventComment": "",
+               "eventDescription": "-",
+               "extraInfo": null,
+               "eventNumber": 12,
+               "eventTypeId": 1,
+               "participantType": "Team",
+               "match": {
+                  "matchId": 24825,
+                  "matchStart": "2023-11-05T20:45:00+01:00",
+                  "status": "Inte startat",
+                  "statusId": 0,
+                  "sportEventStatus": "NotStarted",
+                  "statusTime": "2023-10-30T12:20:08+01:00",
+                  "coverage": 0,
+                  "participants": [
+                     {
+                        "id": 247,
+                        "type": "home",
+                        "name": "Nice",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "NIC",
+                        "mediumName": "Nice",
+                        "countryId": 22,
+                        "countryName": "Frankrike",
+                        "isoCode": "FRA",
+                        "managerId": 0,
+                        "arenaId": 0
+                     },
+                     {
+                        "id": 223,
+                        "type": "away",
+                        "name": "Rennes",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "REN",
+                        "mediumName": "Rennes",
+                        "countryId": 22,
+                        "countryName": "Frankrike",
+                        "isoCode": "FRA",
+                        "managerId": 0,
+                        "arenaId": 0
+                     }
+                  ],
+                  "league": {
+                     "id": 18,
+                     "uniqueLeagueId": 0,
+                     "name": "Ligue 1",
+                     "shortName": null,
+                     "country": {
+                        "id": 22,
+                        "name": "Frankrike",
+                        "isoCode": "FRA",
+                        "population": 0
+                     },
+                     "code": null,
+                     "printAbbreviation": null,
+                     "season": null,
+                     "doShow": false,
+                     "isHome": false,
+                     "legacyKey": 0,
+                     "numTeams": 0,
+                     "popular": false,
+                     "rank": 0
+                  },
+                  "leagueTable": null,
+                  "result": [],
+                  "media": null,
+                  "mutuals": null
+               },
+               "odds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "favouriteOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "startOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "betMetrics": {
+                  "eventTypeId": 1,
+                  "eventType": "1X2",
+                  "eventSubTypeId": 2,
+                  "eventSubType": "Fulltid",
+                  "distributionDate": "2023-11-05T13:48:47.1+01:00",
+                  "distributionRefDate": "2023-11-05T13:33:11.737+01:00",
+                  "values": [
+                     {
+                        "outcome": "1",
+                        "odds": {
+                           "odds": "2,05",
+                           "favouriteOdds": "46,62",
+                           "startOdds": "2,20"
+                        },
+                        "distribution": {
+                           "distribution": "58",
+                           "refDistribution": "59"
+                        }
+                     },
+                     {
+                        "outcome": "X",
+                        "odds": {
+                           "odds": "3,34",
+                           "favouriteOdds": "28,62",
+                           "startOdds": "3,32"
+                        },
+                        "distribution": {
+                           "distribution": "25",
+                           "refDistribution": "24"
+                        }
+                     },
+                     {
+                        "outcome": "2",
+                        "odds": {
+                           "odds": "3,86",
+                           "favouriteOdds": "24,76",
+                           "startOdds": "3,20"
+                        },
+                        "distribution": {
+                           "distribution": "17",
+                           "refDistribution": "17"
+                        }
+                     }
+                  ]
+               },
+               "complementaryBetMetrics": [],
+               "outcomes": null,
+               "svenskaFolket": {
+                  "one": "58",
+                  "x": "25",
+                  "two": "17",
+                  "date": "2023-11-05T13:48:47.1+01:00",
+                  "refOne": "59",
+                  "refX": "24",
+                  "refTwo": "17",
+                  "refDate": "2023-11-05T13:33:11.737+01:00"
+               },
+               "tioTidningarsTips": null,
+               "providerIds": [
+                  {
+                     "provider": "BetRadar",
+                     "type": "Normal",
+                     "id": "42004715"
+                  }
+               ]
+            },
+            {
+               "cancelled": false,
+               "eventComment": "",
+               "eventDescription": "-",
+               "extraInfo": null,
+               "eventNumber": 13,
+               "eventTypeId": 1,
+               "participantType": "Team",
+               "match": {
+                  "matchId": 24831,
+                  "matchStart": "2023-11-05T15:30:00+01:00",
+                  "status": "Inte startat",
+                  "statusId": 0,
+                  "sportEventStatus": "NotStarted",
+                  "statusTime": "2023-10-30T12:22:07+01:00",
+                  "coverage": 0,
+                  "participants": [
+                     {
+                        "id": 365,
+                        "type": "home",
+                        "name": "Wolfsburg",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "WOL",
+                        "mediumName": "Wolfsburg",
+                        "countryId": 21,
+                        "countryName": "Tyskland",
+                        "isoCode": "DEU",
+                        "managerId": 0,
+                        "arenaId": 0
+                     },
+                     {
+                        "id": 1062,
+                        "type": "away",
+                        "name": "Werder Bremen",
+                        "trend": 0,
+                        "goalAvg": null,
+                        "shortName": "SVW",
+                        "mediumName": "Werder Br",
+                        "countryId": 21,
+                        "countryName": "Tyskland",
+                        "isoCode": "DEU",
+                        "managerId": 0,
+                        "arenaId": 0
+                     }
+                  ],
+                  "league": {
+                     "id": 14,
+                     "uniqueLeagueId": 0,
+                     "name": "Bundesliga",
+                     "shortName": null,
+                     "country": {
+                        "id": 21,
+                        "name": "Tyskland",
+                        "isoCode": "DEU",
+                        "population": 0
+                     },
+                     "code": null,
+                     "printAbbreviation": null,
+                     "season": null,
+                     "doShow": false,
+                     "isHome": false,
+                     "legacyKey": 0,
+                     "numTeams": 0,
+                     "popular": false,
+                     "rank": 0
+                  },
+                  "leagueTable": null,
+                  "result": [],
+                  "media": null,
+                  "mutuals": null
+               },
+               "odds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "favouriteOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "startOdds": {
+                  "one": "",
+                  "x": "",
+                  "two": ""
+               },
+               "betMetrics": {
+                  "eventTypeId": 1,
+                  "eventType": "1X2",
+                  "eventSubTypeId": 2,
+                  "eventSubType": "Fulltid",
+                  "distributionDate": "2023-11-05T13:48:47.1+01:00",
+                  "distributionRefDate": "2023-11-05T13:33:11.737+01:00",
+                  "values": [
+                     {
+                        "outcome": "1",
+                        "odds": {
+                           "odds": "1,64",
+                           "favouriteOdds": "58,08",
+                           "startOdds": "1,54"
+                        },
+                        "distribution": {
+                           "distribution": "66",
+                           "refDistribution": "67"
+                        }
+                     },
+                     {
+                        "outcome": "X",
+                        "odds": {
+                           "odds": "4,40",
+                           "favouriteOdds": "21,65",
+                           "startOdds": "4,45"
+                        },
+                        "distribution": {
+                           "distribution": "20",
+                           "refDistribution": "20"
+                        }
+                     },
+                     {
+                        "outcome": "2",
+                        "odds": {
+                           "odds": "4,70",
+                           "favouriteOdds": "20,27",
+                           "startOdds": "5,00"
+                        },
+                        "distribution": {
+                           "distribution": "14",
+                           "refDistribution": "13"
+                        }
+                     }
+                  ]
+               },
+               "complementaryBetMetrics": [],
+               "outcomes": null,
+               "svenskaFolket": {
+                  "one": "66",
+                  "x": "20",
+                  "two": "14",
+                  "date": "2023-11-05T13:48:47.1+01:00",
+                  "refOne": "67",
+                  "refX": "20",
+                  "refTwo": "13",
+                  "refDate": "2023-11-05T13:33:11.737+01:00"
+               },
+               "tioTidningarsTips": null,
+               "providerIds": [
+                  {
+                     "provider": "BetRadar",
+                     "type": "Normal",
+                     "id": "42023105"
+                  }
+               ]
+            }
+         ],
+         "retailerOpenTime": "2023-11-01T22:30:00+01:00",
+         "retailerCloseTime": "2023-11-05T14:59:00+01:00",
+         "retailerCancelCloseTime": "2023-11-05T15:00:00+01:00",
+         "lastDateWithoutTimeOfDay": "2023-11-06T00:00:00+01:00"
+      }
+   ],
+   "error": null,
+   "requestInfo": {
+      "elapsedTime": 1,
+      "apiVersion": 1
+   },
+   "requestId": "1d19c693-2aaa-4120-8da0-923ab6cc308f",
+   "sessionId": null,
+   "deviceId": "f5958675-2d9d-47c9-831b-6a66b530cf19",
+   "session": null,
+   "sessionUser": null,
+   "clientInfo": null
+}
