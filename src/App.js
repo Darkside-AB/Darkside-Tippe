@@ -21,8 +21,7 @@ function App() {
       AOS.init({
         once: true,
         duration: 1000,
-        easing: 'ease-out-cubic',
-        'Access-Control-Allow-Credentials':true
+        easing: 'ease-out-cubic'
       });
     }
 
@@ -35,7 +34,7 @@ function App() {
 
   return (
     <>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <ScrollToTop>
           <Routes>
             <Route path="/" element={<Home />} />
